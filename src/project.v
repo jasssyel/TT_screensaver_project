@@ -5,7 +5,8 @@
  * ui_in[0] = 1 -> repite el logo en mosaico por toda la pantalla
  * ui_in[1] = 1 -> amarillo fijo (0 = colores RGB cambiando)
  */
-
+/* verilator lint_off TIMESCALEMOD */
+`timescale 1ns / 1ps
 `default_nettype none
 
 parameter LOGO_W = 128;          // Ancho del logo en pixeles
