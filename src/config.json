@@ -15,7 +15,7 @@
   "FP_IO_MODE": 1,
   "PL_TARGET_DENSITY": 0.55,
   "ROUTING_COARSE_GRAIN_IO": 0,
-  "RT_MAX_LAYER": "met4"
+  "RT_MAX_LAYER": "met4",
   "FP_IO_VECTORS": [
     "clk 0",
     "rst_n 0",
