@@ -22,7 +22,7 @@ project:
     - "bitmap_rom.v"
     
   # Ruta del archivo de orden de pines para OpenLane/LibreLane
-io_pin_order_cfg: "src/pin_order.cfg"
+#io_pin_order_cfg: "src/pin_order.cfg"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
