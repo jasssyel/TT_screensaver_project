@@ -20,6 +20,7 @@ project:
     - "project.v"
     - "hvsync_generator.v"
     - "bitmap_rom.v"
+    - "pin_order.cfg"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
