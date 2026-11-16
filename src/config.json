@@ -18,8 +18,6 @@
   "RT_MAX_LAYER": "met4",
   "VDD_NETS": ["VPWR"],
   "GND_NETS": ["VGND"],
-  "FP_PDN_LOWER_LAYER": "met1",
-  "FP_PDN_UPPER_LAYER": "met4",
   "FP_IO_VECTORS": [
     "clk 0",
     "rst_n 0",
